@@ -1,1 +1,0 @@
-# stylo_analysis_polspeeches
